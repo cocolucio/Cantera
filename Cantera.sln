@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cantera.Model", "Cantera.Model\Cantera.Model.csproj", "{850E22F0-E6D5-4A41-8249-3451B511A747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cantera", "Cantera\Cantera.csproj", "{F026BAC0-F227-48DC-970E-26E182B6C15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850E22F0-E6D5-4A41-8249-3451B511A747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850E22F0-E6D5-4A41-8249-3451B511A747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850E22F0-E6D5-4A41-8249-3451B511A747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850E22F0-E6D5-4A41-8249-3451B511A747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F026BAC0-F227-48DC-970E-26E182B6C15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F026BAC0-F227-48DC-970E-26E182B6C15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F026BAC0-F227-48DC-970E-26E182B6C15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F026BAC0-F227-48DC-970E-26E182B6C15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
